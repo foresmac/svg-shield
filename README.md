@@ -4,9 +4,9 @@
 
 These SVGs show how you can customize the text, both colors, and the width of each side.
 
-![Sample Shield](https://cdn.rawgit.com/jrit/svg-shield/master/shield-pass.svg)
+![Sample Shield](https://cdn.rawgit.com/vokal/svg-shield/master/shield-pass.svg)
 
-![Sample Shield](https://cdn.rawgit.com/jrit/svg-shield/master/shield-warn.svg)
+![Sample Shield](https://cdn.rawgit.com/vokal/svg-shield/master/shield-warn.svg)
 
 These SVGs are based on those used by [shields.io](http://shields.io).
 
